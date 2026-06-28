@@ -9,15 +9,11 @@
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge" alt="Status" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</p>
-
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 - 🔭 I'm currently working on **competitive programming** and **problem-solving**
 - 🌱 I'm constantly learning and improving my **coding skills**
@@ -110,10 +106,11 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 </p>
 
 <p align="center">
-  💻 Happy Coding! 
+  💻 Happy Coding! 🚀
 </p>
