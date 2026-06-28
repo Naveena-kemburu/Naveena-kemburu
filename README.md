@@ -13,7 +13,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 - 🔭 I'm currently working on **competitive programming** and **problem-solving**
 - 🌱 I'm constantly learning and improving my **coding skills**
@@ -112,5 +111,5 @@
 </p>
 
 <p align="center">
-  💻 Happy Coding! 🚀
+  💻 Happy Coding! 
 </p>
