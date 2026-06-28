@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naveena-kemburu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Naveena-kemburu?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Problem_Solving-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Learning-Cloud_&_Web-blue?style=for-the-badge" alt="Learning" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge" alt="Status" />
 </p>
 
 ---
@@ -85,19 +86,16 @@
 
 <p align="center">
   <a href="https://github.com/Naveena-kemburu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/naveena-kemburu-409224291">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.salesforce.com/trailblazer/jqjswqs1ehtbbde8u9">
     <img src="https://img.shields.io/badge/Salesforce_Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Trailblazer" />
-  </a>ref="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:naveenakemburu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/your_handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
