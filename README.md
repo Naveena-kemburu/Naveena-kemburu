@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Problem_Solving-brightgreen?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning-Cloud_&_Web-blue?style=for-the-badge" alt="Learning" />
+  <img src="https://img.shields.io/badge/Learning-SQL_&_Databases-blue?style=for-the-badge" alt="Learning" />
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge" alt="Status" />
 </p>
 
@@ -106,5 +106,5 @@
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/Naveena-kemburu">Naveena Kemburu</a> | 💻 Happy Coding! 
+  💻 Happy Coding! 
 </p>
