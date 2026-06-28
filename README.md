@@ -18,7 +18,6 @@
 - 🌱 I'm constantly learning and improving my **coding skills**
 - 💡 Love solving challenging problems on various coding platforms
 - 🎯 Goal: Master competitive programming and build impactful projects
-- ⚡ Fun fact: I solve problems before breakfast! ☕💻
 
 <br clear="right"/>
 
