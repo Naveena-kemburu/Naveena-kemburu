@@ -12,13 +12,19 @@
 ---
 
 ## 🚀 About Me
+---
 
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 - 🔭 I'm currently working on **competitive programming** and **problem-solving**
 - 🌱 I'm constantly learning and improving my **coding skills**
 - 💡 Love solving challenging problems on various coding platforms
 - 🎯 Goal: Master competitive programming and build impactful projects
+
 <br clear="right"/>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
