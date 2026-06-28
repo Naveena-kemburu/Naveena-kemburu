@@ -17,7 +17,6 @@
 - 🌱 I'm constantly learning and improving my **coding skills**
 - 💡 Love solving challenging problems on various coding platforms
 - 🎯 Goal: Master competitive programming and build impactful projects
-- ⚡ Fun fact: I solve problems before breakfast! ☕💻
 
 ---
 
@@ -79,38 +78,10 @@
     <img src="https://img.shields.io/badge/-Salesforce_Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Trailblazer"/>
   </a>
 </p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naveena-kemburu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveena-kemburu&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveena-kemburu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveena-kemburu&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveena-kemburu&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📫 Connect With Me
+## � Connect With Me
 
 <p align="center">
   <a href="https://github.com/Naveena-kemburu">
