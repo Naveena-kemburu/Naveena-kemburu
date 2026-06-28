@@ -6,30 +6,38 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Problem_Solving-brightgreen?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning-SQL_&_Databases-blue?style=for-the-badge" alt="Learning" />
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge" alt="Status" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
 ---
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 - 🔭 I'm currently working on **competitive programming** and **problem-solving**
 - 🌱 I'm constantly learning and improving my **coding skills**
 - 💡 Love solving challenging problems on various coding platforms
 - 🎯 Goal: Master competitive programming and build impactful projects
+- ⚡ Fun fact: I solve problems before breakfast! ☕💻
+
+<br clear="right"/>
 
 ---
 
-## �️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-### � Programming Languages
+### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### � Web Development
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,9 +55,10 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 
-### � Core Skills
+### 📚 Core Skills
 - Problem Solving
 - Competitive Programming
+- SQL & Database Management
 - Object Oriented Programming (OOP)
 - Database Management Systems (DBMS)
 - Operating Systems
@@ -82,7 +91,7 @@
 
 ---
 
-## � Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Naveena-kemburu">
