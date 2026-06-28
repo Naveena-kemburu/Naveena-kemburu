@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Naveena Kemburu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Competitive+Programmer;Problem+Solver;Code+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Competitive+Programmer;Problem+Solver;Code+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,9 +18,7 @@
 - 🌱 I'm constantly learning and improving my **coding skills**
 - 💡 Love solving challenging problems on various coding platforms
 - 🎯 Goal: Master competitive programming and build impactful projects
-
 <br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Stack & Skills
